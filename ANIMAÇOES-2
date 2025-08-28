@@ -1,4 +1,10 @@
-
+#EXTM3U
+#EXTINF:-1,Nome: One Punch Man 1ª temporada
+#EXTGRP:Grupo: série
+https://www.googleapis.com/drive/v3/files/1H61R-Cxal_QLlaQTnBlnY6sZvnHyZ_Hi?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1,Nome: One Punch Man 1ª temporada",EPISÓDIO 02 - DUBLADO
+#EXTGRP:Grupo: série
+https://www.googleapis.com/drive/v3/files/1PrmpcvntEmOSwoDj2L5MUIxfEZOEKa10?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/72/3a/IIJunYzb_o.jpg" group-title="TOKUSATSU | Changeman",Ep. 01- Os Defensores Do Planeta Terra
